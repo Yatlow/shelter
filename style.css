@@ -1,5 +1,17 @@
+html{
+    box-sizing: border-box;
+    height: 100%;
+}
 body{
     background-color: bisque;
+}
+header{
+    min-height: 20vh;
+    background-color: chocolate;
+    padding: 50px;
+}
+main{
+    min-height: 60vh;
 }
 h1{
     font-family: 'Courier New', Courier, monospace;
@@ -17,5 +29,15 @@ li{
 .homeIMG{
     width: 350px solid black;
     margin: 25px;
+
+}
+footer{
+    min-height: 10vh;
+    background-color: chocolate;
+    z-index: 10;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
 
 }
