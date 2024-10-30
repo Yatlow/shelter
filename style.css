@@ -35,9 +35,8 @@ footer{
     min-height: 10vh;
     background-color: chocolate;
     z-index: 10;
-    position: absolute;
-    bottom: 0;
+    /* position: absolute; */
+    /* bottom: 0; */
     width: 100%;
     text-align: center;
-
 }
