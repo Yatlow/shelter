@@ -1,0 +1,21 @@
+body{
+    background-color: bisque;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    margin:50px 0 10px 25px;
+}
+ul{
+    font-family: 'Courier New', Courier, monospace;
+    color: darkblue;
+    font-size: large;
+    margin: 0 5px 10px 25px;
+}
+li{
+    margin-top: 10px;
+}
+.homeIMG{
+    width: 350px solid black;
+    margin: 25px;
+
+}
